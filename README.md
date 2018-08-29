@@ -19,3 +19,5 @@
 
 
 All necessary input files can be obtained from “raw_data” folder, while all output files and further analysis could be obtained from the “output files" folder. Two .R files are available – the “stop-word-bg.R” and “poem-analysis.R”. 
+
+Website hosted by netlify: https://poem-translation.netlify.com/
